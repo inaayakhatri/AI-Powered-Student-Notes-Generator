@@ -1,0 +1,5 @@
+/home/inaayan/Documents/Uni/sem 2/oop/lab/project/console-based program/build/CMakeFiles/main.dir
+/home/inaayan/Documents/Uni/sem 2/oop/lab/project/console-based program/build/CMakeFiles/edit_cache.dir
+/home/inaayan/Documents/Uni/sem 2/oop/lab/project/console-based program/build/CMakeFiles/rebuild_cache.dir
+/home/inaayan/Documents/Uni/sem 2/oop/lab/project/console-based program/build/CMakeFiles/main_autogen_timestamp_deps.dir
+/home/inaayan/Documents/Uni/sem 2/oop/lab/project/console-based program/build/CMakeFiles/main_autogen.dir

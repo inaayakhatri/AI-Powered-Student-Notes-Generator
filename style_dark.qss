@@ -1,0 +1,24 @@
+QWidget {
+    background: #2c3e50;
+    color: #ecf0f1;
+    font-family: Arial, sans-serif;
+}
+QPushButton {
+    background: #34495e;
+    color: #ecf0f1;
+    border-radius: 5px;
+    padding: 8px;
+}
+QPushButton:hover {
+    background: #3f5c7a;
+}
+QLineEdit, QComboBox {
+    background: #34495e;
+    color: #ecf0f1;
+    border: 1px solid #5d6d7e;
+    border-radius: 4px;
+    padding: 6px;
+}
+QLabel {
+    font-size: 14px;
+}

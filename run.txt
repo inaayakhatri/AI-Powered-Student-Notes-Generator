@@ -1,0 +1,4 @@
+cd build
+cmake ..
+make
+./qt_app
